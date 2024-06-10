@@ -36,5 +36,3 @@ I am a motivated third-year Computer Science student at Bar-Ilan University, loo
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiLichten)](https://github.com/anuraghazra/github-readme-stats)
