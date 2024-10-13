@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a motivated third-year Computer Science student at Bar-Ilan University, looking for my next challenge!
+I am a motivated Computer Science graduate from Bar-Ilan University, eager to take on my next challenge!
 - 📖 I am eager to learn and develop my skills.
 - 🫡 Before I started my bachelor's degree, I served as an intelligence officer.
 - 🏃‍♀️ In my free time I like to run and cook.
